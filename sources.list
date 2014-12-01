@@ -1,0 +1,10 @@
+#Debian cdrom
+deb cdrom:[Debian GNU/Linux jessie-DI-b2 _Jessie_ - Official Snapshot amd64 DVD Binary-1 20141003-18:34]/ jessie contrib main
+
+# Debian (testing)
+deb http://ftp.debian.org/debian/ testing main contrib non-free
+deb http://ftp.debian.org/debian/ testing-updates main contrib non-free
+deb http://security.debian.org/ testing/updates main contrib non-free
+
+# Linux Mint
+deb http://packages.linuxmint.com/ debian main upstream import
