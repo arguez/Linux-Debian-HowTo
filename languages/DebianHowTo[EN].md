@@ -318,7 +318,10 @@ sudo apt-get install gnome-font-viewer fonts-freefont-otf texlive-fonts-extra tt
 ```
 
 East Asian languages support
+
+```bash
 sudo apt-get install fonts-arphic-ukai fonts-arphic-uming fonts-ipafont-mincho fonts-ipafont-gothic fonts-unfonts-core
+```
 
 **Complete Setup**
 
