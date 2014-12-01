@@ -12,8 +12,8 @@ https://wiki.debian.org/PulseAudio<br>
 https://wiki.debian.org/Multiarch/HOWTO<br>
 https://wiki.debian.org/Locale<br>
 https://wiki.debian.org/ChangeLanguage<br>
-https://wiki.debian.org/LightDM
-https://packages.debian.org/jessie/lightdm
-https://packages.debian.org/jessie/libreoffice
+https://wiki.debian.org/LightDM<br>
+https://packages.debian.org/jessie/lightdm<br>
+https://packages.debian.org/jessie/libreoffice<br>
 http://linux.die.net/man/1/su<br>
 http://linux.die.net/man/1/gksudo<br>
