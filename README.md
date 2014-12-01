@@ -2,7 +2,7 @@
 
 ####Description
 
-This guide explains how to customize a Debian testing installation for better functionality and looks, with the MATE desktop environment. This guide is based on a DVD image of Debian Jessie (development codename for Debian 8.0).
+This guide explains how to customize a Debian testing installation for better functionality and looks, with the MATE desktop environment. Base install: DVD image of Debian Jessie (Debian 8.0).
 
 ####Languages
 
