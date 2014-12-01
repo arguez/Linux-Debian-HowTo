@@ -18,18 +18,12 @@ This guide explains how to customize a Debian testing installation for better fu
 
 - Wired internet connection
 - Know how to install Debian
+- Debian Jessie DVD1
 
-**Downloads**
+**Download**
 
-https://www.debian.org/devel/debian-installer/<br>
-http://cdimage.debian.org/cdimage/jessie_di_beta_2/amd64/iso-cd/<br>
 http://cdimage.debian.org/cdimage/jessie_di_beta_2/amd64/iso-dvd/<br>
 
-Choose one of the following:
-
-Debian testing net install<br>
-Debian testing DVD1<br>
-Debian testing CD1<br>
 
 
 ####Introduction
