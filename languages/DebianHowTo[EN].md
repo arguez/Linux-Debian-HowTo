@@ -66,12 +66,10 @@ Text blocks indicate contents of a file or text to be copied.
 
 ####Initial Setup
 
-The first steps consist in opening a terminal window to execute tasks as root, then configuring the repositories and updating the package list to install the necesary tools and software that will be covered in this gude.
+Open or login into a terminal window to configure the repositories and update the package list to install the necesary tools and software that will be covered in this gude.
 
 Get your current username (will be needed later).
 It's the first word before '@' when you open the terminal emulator.
-
-Open a terminal window, you will see your current username. If you installed Debian from a netinstall image just log in as root if you enabled the root account during setup, otherwise log in with the username you provided.
 
 ```bash
 arguez@devpc:~$
@@ -401,6 +399,11 @@ sudo apt-get install clonezilla partclone partimage parted gparted gnome-disk-ut
 Package management
 ```bash
 sudo apt-get install aptitude gdebi synaptic gnome-packagekit
+```
+
+Display manager
+```bash
+sudo apt-get install lightdm lightdm-gtk-greeter
 ```
 
 Java (for end users)
